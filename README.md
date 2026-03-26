@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuhoanh2007&label=Profile%20views&color=ab00ad&style=flat" alt="vuhoanh2007" /> </p>
 
-- 📚 I’m currently studying at PTIT **Information technology**
+- 📚 I’m currently studying at PTIT **Information Technology**
 
-- 🌱 I’m currently learning **React, vue, Angular,…**
+- 🌱 I’m currently learning **.NET, Flutter, ...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vuhoanh2007?tab=repositories](https://github.com/vuhoanh2007?tab=repositories)
 
