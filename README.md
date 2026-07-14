@@ -25,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vuhoanh2007&show_icons=true&theme=dracula&title_color=0071f3&text_color=00c4c3&bg_color=28005e&locale=en&layout=compact" alt="vuhoanh2007" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vuhoanh2007&show_icons=true&theme=dracula&title_color=e800ea&text_color=00e1d5&bg_color=48004e&locale=en" alt="vuhoanh2007" /></p>
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
